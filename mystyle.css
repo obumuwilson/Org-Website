@@ -1,0 +1,30 @@
+.body{
+    background-color: goldenrod;
+    color: brown;
+}
+.h1styles{
+    color: blueviolet;
+    font-family: cambria;
+}
+.images{
+    height: 80%;
+    width: 90%;
+}
+.subdiv{
+    height: auto;
+    float: left;
+    width: 30%;
+    border: solid green;
+    margin-right: 10px;
+    padding-left: 20px;
+    
+}
+.maindiv{
+    width: 90%;
+    height: auto;
+}
+.caption{
+    color: gainsboro;
+    text-align: center;
+    background-color: goldenrod;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: blue;
+    color: gold;
+}
+
+.h1style{
+    background-color: blue;
+    color: red;
+}
+
+.maindiv{
+    background-color: blueviolet;
+    color: aqua;
+    height: 40px;
+    width: 30%;
+    float: left;
+    padding: 5%;
+}
+
+.semidiv{
+    background-color: darkslateblue;
+    color: orangered;
+    float: right;
+}
+.image{
+    height: 50%;
+    width: 40%;
+    padding: 10%;
+    margin: 5px;
+    float: right;
+}
+.paragraph{
+    color: blueviolet;
+    background-color: brown;
+}
+caption{
+    background-color: brown;
+    color: goldenrod;
+}
